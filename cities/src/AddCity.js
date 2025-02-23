@@ -56,7 +56,7 @@ function AddCity({ addCity }) {
         <button type='submit'>Add City</button>
       </form>
     </div>
-  );
+  ); 
 }
 
 export default AddCity;
