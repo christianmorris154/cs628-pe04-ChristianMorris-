@@ -8,7 +8,9 @@ Users submit these details through a designated input form.
 The application code is organized into multiple components:
 
 AddCity.js: Handles the input of the city name, country, and population.
+
 CitiesList: Populates and displays a list of cities based on the submitted information. Each city name in the list acts as a clickable link.
+
 CityDetails: Shows detailed information for the city that the user selects from the list.
 
 # Output: 
