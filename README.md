@@ -1,5 +1,10 @@
 # cs628-pe04-ChristianMorris-
 
+# Preview
+![Screenshot Preview](Screenshot-2025-02-23-110307.png)
+
+![Screenshot Preview](Screenshot-2025-02-23-110340.png)
+
 # Input:
 The application enables users to input information such as the city name, country, and population.
 Users submit these details through a designated input form.
